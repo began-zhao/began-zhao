@@ -1,8 +1,6 @@
 ### 你好 👋<br>
 
 
-<a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api?username=began-zhao&&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /><a/>
-
 😄很高兴你点开了我的主页
 - 🔭 我是一个后端工程师
 - 🌱 开源了自己的仓库： [kafeimall](https://github.com/began-zhao/kafeimall) 和 [studydraw](https://github.com/began-zhao/studydraw)
